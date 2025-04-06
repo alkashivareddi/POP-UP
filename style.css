@@ -1,0 +1,42 @@
+body{
+    background-color: #DECDAC;
+    margin: 0;
+    font-family: cursive;
+}
+.popup{
+    width: 500px;
+    height: 300px;
+    background-color: white;
+    border-radius: 16px;
+    position: fixed;
+    padding: 8px;
+    top: 0;
+    left: 0;
+    box-shadow: 0 5px 4px 2px rgba(0, 0, 0, 0.3);  
+    transform: translate(-50% ,-50%) scale(0);  
+    transition: all 0.2s ease-in-out;
+}
+.popup-open .popup{
+    left: 50%;
+    top: 50%;
+    transform: translate(-50% ,-50%) scale(1);
+}
+
+.close-icon{
+    font-size: 48px;
+    font-weight: 700;
+    position: absolute;
+    right: 16px;
+    cursor: pointer;
+    font-family: serif;
+    
+}
+.overlay{
+    display: none;
+    position: fixed;
+    inset: 0;
+    background-color: rgba(0, 0, 0, 0.3);
+}
+.popup-open .overlay{
+    display: block;
+}
