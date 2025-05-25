@@ -1,5 +1,9 @@
 # POP-UP
 POP-UP is a simple and responsive web component that displays a pop-up modal window. Built using HTML, CSS, and JavaScript, this project demonstrates how to create interactive pop-up modals to enhance user engagement.
+# Technologies Used
+
+- HTML5
+- CSS3
 
 # Project Structure
 ```
