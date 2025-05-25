@@ -4,6 +4,8 @@ POP-UP is a simple and responsive web component that displays a pop-up modal win
 
 - HTML5
 - CSS3
+- JavaScript 
+
 
 # Project Structure
 ```
