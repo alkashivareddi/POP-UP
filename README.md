@@ -24,6 +24,9 @@ POP-UP/
 2 Navigate to the project folder:
 
   cd POP-UP
+# License
+This project is open-source and available under the MIT License.
+
 
 
 
