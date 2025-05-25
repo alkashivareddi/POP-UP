@@ -16,14 +16,14 @@ POP-UP/
 - Clean and minimalist user interface
 
 - Easy to integrate into existing projects
-🚀 How to Use
+  # How to Use
 1 Clone the repository:
 
-git clone https://github.com/alkashivareddi/POP-UP.git
+  git clone https://github.com/alkashivareddi/POP-UP.git
 
 2 Navigate to the project folder:
 
-cd POP-UP
+  cd POP-UP
 
 
 
